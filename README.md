@@ -2,7 +2,7 @@
 Automated structure quality monitoring for two-photon  lithography
 
 • Background:
-Two-photon lithography (TPL) is an additive manufacturing technique to produce three-dimensional (3D) micro- and nanostructures.
+Two-photon lithography (TPL) is an additive manufacturing technique to produce three-dimensional (3D) micro- and nano-structures.
 One challenge in TPL lies in the identification of optimal process parameters such as the laser power and the scanning rate. Different process parameters lead to different structure quality. 
 
 • Objective: 
